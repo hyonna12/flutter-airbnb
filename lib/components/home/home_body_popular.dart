@@ -23,8 +23,6 @@ class HomeBodyPopualr extends StatelessWidget {
 
   Widget _buildPopularList() {
     return Container(
-      // 나중에 빼기
-      color: Colors.red,
       child: Wrap(
         // row 는 깨짐
         children: [
